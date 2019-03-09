@@ -17,12 +17,9 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             In short, I am:
 
-            - A techie enthusiastic about scalable technology solutions
-            - A user experience designer aiming to make customers stick around
-            - An entrepreneur who believes that Africa is the next frontier
-            - A lover of kiwis 🥝
-            
-            Contact me on omondi.apondi@gmail.com for more`;
+            - An enthusiast of scalable technology solutions
+            - A user experience designer with an aim to make human-computer interactions profound
+            - An entrepreneur with the belief that Africa is the next frontier`;
   var speed = 60;
 
   function typeItOut () {
