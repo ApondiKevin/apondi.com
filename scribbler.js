@@ -12,15 +12,17 @@ var getAll = function (selector, scope) {
 // setup typewriter effect in the terminal demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
-  var txt = `scribbler
-            [Entry mode; press Ctrl+D to save and quit; press Ctrl+C to quit without saving]
+  var txt = `about.apondi
+            "I am currently a final year undergraduate computer science student at the African Leadership University(ALU) in Mauritius"
 
-            ###todo for new year dinner party
+            In short, I am:
 
-            - milk
-            - butter
-            - green onion
-            - lots and lots of kiwis 🥝`;
+            - A techie enthusiastic about scalable technology solutions
+            - A user experience designer aiming to make customers stick around
+            - An entrepreneur who believes that Africa is the next frontier
+            - A lover of kiwis 🥝
+            
+            Contact me on omondi.apondi@gmail.com for more`;
   var speed = 60;
 
   function typeItOut () {
